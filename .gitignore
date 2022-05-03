@@ -1,2 +1,4 @@
 .ipynb_checkpoints
-ml-25m
+.vscode
+ml-25m/*
+!genres.txt
