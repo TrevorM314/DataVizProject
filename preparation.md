@@ -23,4 +23,4 @@
     We chose these methods from looking at our data and what relationships we thought it would be interesting to plot and picked these visualizations from how our data was structured. 
 
 7. Hope of Impact\
-    T
+    Hopefully, movie watchers and programmers can use this data to find more relevant recommendations, and better evaluate the quality of new releases.
